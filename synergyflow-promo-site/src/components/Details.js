@@ -8,7 +8,7 @@ const Details = () => {
       <Container>
         <Row className="align-items-center">
           <Col md={6}>
-            <img src="https://via.placeholder.com/500x300.png?text=Feature+Image+1" className="img-fluid rounded mb-4" alt="Feature 1" />
+            <img src="https://placehold.co/500x300?text=Feature+Image+1" className="img-fluid rounded mb-4" alt="Feature 1" />
           </Col>
           <Col md={6}>
             <h3>Visualize Your Workflow</h3>
@@ -19,7 +19,7 @@ const Details = () => {
         </Row>
         <Row className="align-items-center mt-5">
           <Col md={6} className="order-md-2">
-            <img src="https://via.placeholder.com/500x300.png?text=Feature+Image+2" className="img-fluid rounded mb-4" alt="Feature 2" />
+            <img src="https://placehold.co/500x300?text=Feature+Image+2" className="img-fluid rounded mb-4" alt="Feature 2" />
           </Col>
           <Col md={6} className="order-md-1">
             <h3>Integrate Your Favorite Tools</h3>
